@@ -1,0 +1,8 @@
+{
+  "welcome_channel_id": 1334267920855076904,
+  "leave_channel_id": 1334277030048563290,
+  "rules_channel_id": 1334232021156757627,
+  "roles_channel_id": 1334232021156757628,
+  "server_name": "Hedid Crazy",
+  "welcome_message": "Hey {mention}, welcome to Hedid Crazy!👋\nPlease read our rules on <#{rules}> 📜 »-rules and pick your roles <#{roles}> ⭐ »-roles\nBiar bisa main bareng hehehe"
+}
